@@ -1,5 +1,8 @@
 # CIS 700 Midterm by Ravjot Sachdev
 
+Github link: https://github.com/rsachdev19/Midterm_Spring_2021
+
+
 ## Topic 1: Evading Malware Detection
 
 For this topic, I selected the MalGAN project. The original code can be found at https://github.com/ZaydH/MalwareGAN/
